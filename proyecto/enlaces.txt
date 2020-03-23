@@ -1,4 +1,3 @@
-Aquí se encuentra la realización del proyecto para minería de datos
 Enlace al curso: https://github.com/AprendizajeProfundo/Ciencia-de-Datos
   clase 1: https://github.com/AprendizajeProfundo/Ciencia-de-Datos/blob/master/Syllabus_Ciencia_de_datos.ipynb
   clase 2: https://github.com/AprendizajeProfundo/Ciencia-de-Datos/blob/master/Cuadernos/Teoria_Informacion.ipynb
